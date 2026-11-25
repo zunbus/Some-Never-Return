@@ -1,0 +1,16 @@
+Binaries/
+DerivedDataCache/
+Saved/
+Intermediate/
+SourceAssets/
+Docs/.Obsidian
+.vscode/
+*.sln
+*.user
+*.opensdf
+*.sdf
+*.suo
+*.pdb
+*.idb
+*.log
+*.vsconfig
