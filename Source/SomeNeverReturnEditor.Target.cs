@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 public class SomeNeverReturnEditorTarget : TargetRules
 {
-	public SomeNeverReturnEditorTarget( TargetInfo Target) : base(Target)
-	{
-		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V6;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_7;
-		ExtraModuleNames.Add("SomeNeverReturn");
-	}
+    public SomeNeverReturnEditorTarget(TargetInfo Target) : base(Target)
+    {
+        Type = TargetType.Editor;
+
+        DefaultBuildSettings = BuildSettingsVersion.V7;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_8;
+    }
 }
