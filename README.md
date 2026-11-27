@@ -27,6 +27,7 @@ Struktura Folderów:
 ./
 ├── Game/            <- Projekt gry (Unreal Engine 5.8)
 ├── Docs/            <- Dokumenty
+├── Narrative/       <- Treści narracyjne
 └── RawAssets/       <- Czyste Assety
     ├── Textures/    <- Assety 2d
     ├── 3dAssets/    <- Assety 3d
