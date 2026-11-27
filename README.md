@@ -21,6 +21,7 @@ Projekt łączy symulację działań ratowniczych, zarządzanie personelem, proc
 | Platforma docelowa | PC |
 | System operacyjny | Windows 10/11 |
 | Konkurs | Motorola Solutions Science Cup 2027 |
+
 Struktura Folderów:
 ```
 ./
