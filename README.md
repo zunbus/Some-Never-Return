@@ -21,7 +21,16 @@ Projekt łączy symulację działań ratowniczych, zarządzanie personelem, proc
 | Platforma docelowa | PC |
 | System operacyjny | Windows 10/11 |
 | Konkurs | Motorola Solutions Science Cup 2027 |
-
+Struktura Folderów:
+```
+./
+├── Game/            <- Projekt gry (Unreal Engine 5.8)
+├── Docs/            <- Dokumenty
+└── RawAssets/       <- Czyste Assety
+    ├── Textures/    <- Assety 2d
+    ├── 3dAssets/    <- Assety 3d
+    └── Audio/       <- Muzyka/SFX
+```
 ## Główne założenia rozgrywki
 
 Podstawą rozgrywki jest zarządzanie Zintegrowanym Centrum Ratowniczym oraz bezpośredni udział w akcjach ratowniczych.
